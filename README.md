@@ -1,7 +1,6 @@
-### Github Tutorial
+TRL Files Upload
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
-
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
-
-Append ?raw=true to any file URL on Github to get the direct link.
+1) Name sylesheet to be ending with .css(file extension)
+2) Take note of your file name
+3) Append ?raw=true to your file URL on Github so that it can be used as a direct link.
+4) Update it on TRL to make the change.
