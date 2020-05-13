@@ -1,1 +1,3 @@
-#slogan{background-image: url("trlBG3.jpg"); color: red !important;}
+:root {
+  --color-black: green;
+}
